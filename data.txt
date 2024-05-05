@@ -1,0 +1,152 @@
+abstract
+Carbon footprint (CF) refers to the total amount of carbon dioxide and its equivalents emitted due to various
+anthropogenic activities. Carbon emission and sequestration inventories have been reviewed sector-wise for
+all federal states in India to identify the sectors and regions responsible for carbon imbalances. This would
+help in implementing appropriate climate change mitigation and management strategies at disaggregated
+levels. Major sectors of carbon emissions in India are through electricity generation, transport, domestic
+energy consumption, industries and agriculture. A majority of carbon storage occurs in forest biomass and
+soil. This paper focuses on the statewise carbon emissions (CO2, CO and CH4), using region specific emission
+factors and statewise carbon sequestration capacity. The estimate shows that CO2, CO and CH4 emissions
+from India are 965.9, 22.5 and 16.9 Tg per year, respectively. Electricity generation contributes 35.5% of total
+CO2 emission, which is followed by the contribution from transport. Vehicular transport exclusively
+contributes 25.5% of total emission. The analysis shows that Maharashtra emits higher CO2, followed by
+Andhra Pradesh, Uttar Pradesh, Gujarat, Tamil Nadu and West Bengal. The carbon status, which is the ratio of
+annual carbon storage against carbon emission, for each federal state is computed. This shows that small
+states and union territories (UT) like Arunachal Pradesh, Mizoram and Andaman and Nicobar Islands, where
+carbon sequestration is higher due to good vegetation cover, have carbon status 41. Annually, 7.35% of total
+carbon emissions get stored either in forest biomass or soil, out of which 34% is in Arunachal Pradesh,
+Madhya Pradesh, Chhattisgarh and Orissa.
+& 2012 Elsevier Ltd. All rights reserved.
+Contents
+1. Introduction ..................................................................................................... 5820
+2. Methods ........................................................................................................ 5822
+2.1. Quantification of emissions ................................................................................... 5825
+2.2. Quantification of carbon sequestration potential .................................................................. 5825
+2.3. Carbon status . ............................................................................................. 5826
+3. Results and discussion............................................................................................. 5826
+Conclusions ..................................................................................................... 5831
+Acknowledgement . ............................................................................................... 5831
+References ...................................................................................................... 5831
+1. Introduction
+Carbon footprint is a synonym for emissions of carbon dioxide
+or other greenhouse gases (GHGs) expressed in carbon dioxide
+equivalents. This has been used as an environmental indicator to
+understand and quantify the main emission sources and it
+constitutes as an effective tool for energy and environment
+management. It helps us to determine the quantity of emission
+from different carbon emitting sectors, which in turn is useful for
+Contents lists available at SciVerse ScienceDirect
+journal homepage: www.elsevier.com/locate/rser
+Renewable and Sustainable Energy Reviews
+1364-0321/$ - see front matter & 2012 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.rser.2012.05.035
+n Corresponding author at: Energy & Wetlands Research Group, CES R 215,
+Centre for Ecological Sciences, Indian Institute of Science, Bangalore 560 012,
+India. Tel.: þ91 80 23600985/22932506/22933099; fax: þ91 80 23601428/
+23600085/23600683.
+E-mail addresses: cestvr@ces.iisc.ernet.in,
+energy@ces.iisc.ernet.in (T.V. Ramachandra),
+shwetmala@ces.iisc.ernet.in (Shwetmala).
+URL: http://ces.iisc.ernet.in/energy (T.V. Ramachandra).
+Renewable and Sustainable Energy Reviews 16 (2012) 5820–5833
+quantifying the impact of human activities on the environment
+and global climate. Carbon dioxide concentration in the atmosphere has been rising alarmingly in the post industrial revolution
+era and the current level is about 379 ppm (ppm¼parts per
+million) compared to 280 ppm earlier (pre industrialisation).
+The Planning Commission of the Government of India advocates
+in the 12th Five-Year Plan of the country for low carbon growth.
+The proposed actions will reduce India’s emission intensity from
+20% to 25% by 2020 with respect to the emissions in 2005. This
+includes policy interventions to reduce emission intensity
+through fuel-efficiency standards, green building codes and
+energy efficiency certificates. In this context, numerous challenges that are to be addressed include the burgeoning population
+coupled with urbanisation, industrialisation and provision of
+infrastructure and transport facilities. This necessitates decentralised mitigation strategies to minimise carbon emissions which
+require sector wise and region wise inventory of GHG emissions.
+National GHG emission inventories based on United Nations
+Framework Convention on Climate Change (UNFCCC) aid in this
+regard for evolving mitigation policies and action plans.
+The national inventories of emission and sequestration provide
+a general guideline for assessing the mitigation alternatives [1].
+Statewise estimates of emission inventories help to understand
+the major sources and sinks of carbon at regional levels. It also
+helps to understand the carbon flux and facilitate in the implementation at local levels by sector wise mitigation policies.
+Carbon footprint at local level helps in aligning climate policy
+with local development, sharpening the awareness of municipal
+stakeholders about the links between local activities and
+climate change and local benchmarks against a city’s own
+historical emissions [2]. Environmentally extended input–output
+analysis (EE-IOA) has long been recognised as a useful top–down
+technique to attribute pollution or resource use to final demand
+in a consistent framework [3–5]. Interest for EE-IOA has increased
+with the significant increase of interest in consumption-based
+emission and resource accounting. Consumption-based accounting focussing on GHG has become relevant for policy and decision
+making. This approach, where all emissions occurring along the
+chains of production and distribution are allocated to the final
+consumer of products, is seen as providing several opportunities.
+Consumption-based accounting (CBA) complements the territorial-based approach [6,7] by including all drivers of GHG emissions
+associated with consumption.
+Consumption based GHG emission inventory varies with
+income and urbanisation. Carbon footprint of twelve metropolitan
+cities, with inter and intra variability in metropolitan areas and
+found Delhi has lowest per capita CF of 0.70 metric ton with
+lowest per capita income of $950 whereas Los Angeles and New
+York both with higher per capita income of $46,040 have CF of
+3.69 and 1.94 metric ton respectively due to higher consumption
+pattern [8]. Urbanisation has changed our lifestyle as well as
+consumption pattern. Carbon footprint analysis of metropolitan
+Fig. 1. State and UT of India.
+T.V. Ramachandra, Shwetmala / Renewable and Sustainable Energy Reviews 16 (2012) 5820–5833 5821
+America using national database through transportation and
+residential sectors show that per capita carbon emissions vary
+substantially as large metropolitan areas offer greater energy and
+carbon efficiency [9]. Study on housing sectors reveals that wood
+intensive houses store more embodied carbon compared to
+normal modern houses [10]. Current Indian population has
+crossed 1200 million according to the Directorate of Census
+Operation, with approximately 28% living in urban areas. This
+share is predicted to increase to about 40% by 2021 [11]. India and
+China account for 51% of incremental world primary energy
+demand in 2006–2030 as per WEO [12]. Urban areas in these
+countries are the prime energy demand and also GHG emission
+centres. An inventory of the energy status and carbon emissions
+of 54 South Asian cities, including 41 cities from India, based on
+the city energy consumption and related carbon emissions show
+that major metropolitan/urbanized and industrialised regions
+have higher GHG emission [1,13].
+The demand for energy has been increasing with urbanisation
+and burgeoning population. Electricity, fuel wood, kerosene and
+Liquefied Petroleum Gas (LPG) are used for cooking and lighting
+in rural and urban areas in India. Estimates indicate that in urban
+areas, per capita per month consumption of firewood, electricity,
+kerosene and LPG are 6.65 kg, 22.32 kWh, 0.22 l and 1.81 kg,
+respectively. The total installed capacity of electricity generation
+has increased from 16 GW in 1971 to 174 GW in 2009 [14].
+Socio-economic growth coupled with the boost in the infrastructure sector during the post globalisation era has enhanced
+the growth of cement and steel industries. The production of
+cement has increased to 181.61 mt in year 2008–09 as against
+168.31 mt in year 2007–08. Similarly, the crude steel production
+shows annual growth of 1.23% [15]. However, these increases in
+cement and steel production have enhanced carbon emissions
+surpassing natural sequestration of carbon.
+Forest vegetation and soil are major carbon sinks. In 2005,
+India’s forest cover was spread in an area of 677,088 km2 and it
+accounted for 20.6% of the total geographical area of the country,
+whereas, tree cover accounted for 2.8% of India’s geographical
+area [16,17]. The greater forest cover is proportional to greater
+carbon storage because forest soil has the potential to sequester
+carbon. Also, improvements in agricultural practices would
+increase the quantity of organic carbon in soil [18].
+In this context, decentralised inventory of carbon emission viaa-vis sequestration potential at disaggregated levels would help
+in implementing carbon capture strategies. This requires sector
+wise analysis of sources and sinks at disaggregated levels and
+region specific mitigation measures depending on the sources.
+The focus of this work is to develop the state wise carbon balance
+inventory for India. Electricity generation, transport, industries,
+domestic energy, agriculture and waste disposal sectors are
+considered for emission estimates. Forest biomass, forest soil
+and agricultural soil are considered for carbon sequestration. This
+is done based on the compilation of data from each sector in all
+states of India and through the review of the emission and sink
+experiments carried out in India and India specific IPCC default
+emission factors [1,19,20]. 
